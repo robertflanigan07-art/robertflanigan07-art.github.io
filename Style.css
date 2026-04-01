@@ -1,0 +1,184 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lexend');
+
+body {
+	font-size:100%;
+	background-image: url("images/final/Night Sky.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family:'Lexend', sans-serif;
+	font-weight:600;
+	}
+	
+	
+h1{
+	text-align:center;
+	text-decoration:underline;
+	font-size:1.75em;
+	}
+	
+	
+h2{
+	text-align:center;
+	text-decoration:underline;
+	font-size:1.50em;
+	font-weight:600;
+	}
+	
+	
+h3{
+	text-align:center;
+	font-size:1.10em;
+	font-weight:600;
+}
+
+
+h4{
+	text-align:center;
+	text-decoration:underline;
+	font-size:1.40em;
+	font-weight:600;
+}
+
+
+h5{
+	text-align:center}
+figcaption {
+	font-size:0.80em;
+}
+
+
+
+a:link {
+  color: #4e2185;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #f7b733;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #ff0000;
+  text-decoration: underline;
+}
+
+
+
+
+
+th.table1{
+vertical-align:top;
+padding: 20px;
+}
+
+.table2{
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+
+.table2 th{
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.wrapper {
+width: 95%;
+margin: 0 auto;
+background-color: rgba(0,0,0,0);
+padding: 20px;
+}
+
+.header{
+width: 95%;
+margin: 0 auto;
+background-color: #f2f2f2; 
+padding: 10px;
+margin:10px;
+float: center;
+}
+
+.content1{
+width: 95%;
+margin: 0 auto;
+background-color: #f2f2f2; 
+padding: 10px;
+margin:10px;
+float: left;
+text-align:center;
+}
+
+.content2{
+width: 95%;
+margin: 0 auto;
+background-color: #f2f2f2; 
+padding: 10px;
+margin:10px;
+float: left; 
+text-align:center;
+}
+
+.content3{
+width: 95%;
+margin: 0 auto;
+background-color: #f2f2f2; 
+padding: 10px;
+margin:10px;
+float: left; 
+text-align:center;
+}
+
+.content4{
+width: 95%;
+margin: 0 auto;
+background-color: #f2f2f2; 
+padding: 10px;
+margin:10px;
+float: left;
+text-align:center; 
+}
+
+.content5{
+width: 95%;
+margin: 0 auto;
+background-color: #f2f2f2; 
+padding: 10px;
+margin:10px;
+float: left; 
+}
+
+.content6{
+width: 95%;
+margin: 0 auto;
+background-color: #f2f2f2; 
+padding: 10px;
+margin:10px;
+float: left; 
+}
+
+.footer{
+width: 95%;
+margin: 0 auto;
+background-color: #f2f2f2; 
+padding: 10px;
+margin:10px;
+float:left;
+}
+
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+
+
+	
